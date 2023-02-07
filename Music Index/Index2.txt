@@ -1,0 +1,7 @@
+songs = {	{"name": "hello world", "image": "image goes here", "https" :"https://youtu.be/Yw6u6YkTgQ4"}
+artist	{Louie Zong}
+Genre	{I don't know genres well, Slow, Exitensial <- Check spelling,}
+Tags	{I don't know tags well, robotic, programming}
+Feel	{Calm, Sad, Thoughtfull}
+Opinion	{"Base":75, "Current":56}
+Unique	{}
